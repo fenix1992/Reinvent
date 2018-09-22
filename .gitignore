@@ -1,0 +1,7 @@
+.htaccess
+cgi-bin
+php.ini
+info.php
+/.idea/
+composer.lock
+/vendor/
